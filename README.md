@@ -113,7 +113,7 @@ Developed with React Native, Expo, and TypeScript.
 
 ## 🏁 Starting the project:
 
-Clone the project: `git clone https://github.com/LiajuX/NextLevelWeek-Habby`
+Clone the project: `git clone https://github.com/LiajuX/NextLevelWeek-Happy`
 
 ❗ **NOTE:** If you don't have yarn installed, use npm instead.
 
