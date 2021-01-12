@@ -37,11 +37,11 @@
 <br>
 
 ## 🚀 Next Level Week #03 - Happy  
-The Next Level Week is a project created by [RocketSeat](https://rocketseat.com.br/) to replace the Omnistack Week. The goal is to develop a complete application in a week.
+The Next Level Week is a project created by [RocketSeat](https://rocketseat.com.br/) to replace the OmniStack Week. The goal is to develop a complete application in a week.
 
-This new model differs from the other by having two versions, the Starter, designed for beginners, and the Booster, with the more advanced content.
+This new model differs from the other by having two versions, the Discovery, designed for beginners, and the OmniStack, with the more advanced content.
 
-This repository contains the **Booster** version of the NLW.
+This repository contains the **OmniStack** version of the NLW.
 
 <br>
 
