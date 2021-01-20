@@ -81,9 +81,8 @@ A REST API built with Node.js and TypeScript.
 - **[Node.js](https://nodejs.org/en/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - *[Express](https://expressjs.com/pt-br/)*
-- *[Knex.js](http://knexjs.org/)*
+- *[TypeORM](https://typeorm.io/#/)*
 - *[Nodemon](https://nodemon.io/)*
-- *[Celebrate](https://github.com/arb/celebrate)*
 
 <br>
 
