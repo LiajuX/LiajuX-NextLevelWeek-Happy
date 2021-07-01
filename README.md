@@ -165,7 +165,7 @@ $ yarn android
 # for iOS
 $ yarn ios
 ````
-Now, you just have to point your smartphone's camera to scan the QR Code displayed on the terminal or in the browser that will open to open the application in Expo.
+Now, you have to point your smartphone's camera to scan the QR Code displayed on the terminal or in the browser that'll open to open the application on Expo...
 
 ---
 
